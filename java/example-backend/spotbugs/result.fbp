@@ -1,0 +1,4 @@
+<Project projectName="fullstack-backend">
+  <Jar>../../../ReactJS-Spring-Boot-CRUD-Full-Stack-App/springboot-backend/target</Jar>
+  <SrcDir>../../../ReactJS-Spring-Boot-CRUD-Full-Stack-App/springboot-backend/src</SrcDir>
+</Project>
